@@ -1,0 +1,31 @@
+{
+  "Name": "Anarchy Blade",
+  "DisplayName": "Anarchy Blade",
+  "Tooltip": "Throws a spinning blade of anarchy",
+  "UseStyle": 1,
+  "UseAnimation": 20,
+  "UseTime": 20,
+  "Damage": 150,
+  "Crit": 4,
+  "Knockback": 6.5,
+  "Value": 300000,
+  "Rarity": 11,
+  "Scale": 1.2,
+  "MaxStack": 1,
+  "UseSound": 1,
+  "ItemWidth": 40,
+  "ItemHeight": 40,
+  "NoUseGraphic": false,
+  "UseTurn": true,
+  "Ammo": 0,
+  "NotAmmo": true,
+  "HoldStyle": 1,
+  "Animation": 0,
+  "CreateTile": -1,
+  "Color": [
+    255,
+    255,
+    255
+  ],
+  "Autoload": true
+}
