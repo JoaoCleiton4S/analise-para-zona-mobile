@@ -1,13 +1,13 @@
 {
   "Name": "Anarchy Blade",
   "DisplayName": "Anarchy Blade",
-  "Tooltip": "Throws a spinning blade of anarchy",
+  "Tooltip": "Quanto menor for a sua vida, mais dano esta lâmina causará. Seus golpes gerarão uma grande explosão. E quando estiver abaixo de 50% da vida, seus golpes terão chance de matar instantaneamente inimigos normais.",
   "UseStyle": 1,
   "UseAnimation": 20,
-  "UseTime": 20,
+  "UseTime": 18,
   "Damage": 150,
   "Crit": 4,
-  "Knockback": 6.5,
+  "Knockback": 7.5,
   "Value": 300000,
   "Rarity": 11,
   "Scale": 1.2,
@@ -22,10 +22,6 @@
   "HoldStyle": 1,
   "Animation": 0,
   "CreateTile": -1,
-  "Color": [
-    255,
-    255,
-    255
-  ],
+  "Color": [255, 255, 255],
   "Autoload": true
 }
